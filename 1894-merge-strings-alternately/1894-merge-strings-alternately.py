@@ -5,14 +5,19 @@ class Solution(object):
         :type word2: str
         :rtype: str
         """
+
+        #taking the range till when the loop will run
         w1 = len(word1)
         w2 = len(word2)
 
+
+        #intitating the pointers for each of the words
         p1 = 0
         p2 = 0
 
         new_word=[]
 
+        #declaring which word it is currently at
         word = 1
 
         while p1<w1 and p2<w2:
