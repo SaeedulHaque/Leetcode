@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaeedulHaque/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/SaeedulHaque/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2350-find-closest-number-to-zero](https://github.com/SaeedulHaque/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Binary Search
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/SaeedulHaque/Leetcode/tree/master/1894-merge-strings-alternately) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SaeedulHaque/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
