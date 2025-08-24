@@ -22,6 +22,9 @@ class Solution(object):
 
 #For each element, the product except itself = (product of all elements to the left) × (product of all elements to the right)
 
+
+#prefix and sufix method 
+
         #nums = [a, b, c, d], the product for c would be (a × b) × (d)
 
 
