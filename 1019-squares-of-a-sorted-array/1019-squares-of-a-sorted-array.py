@@ -4,9 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-
-        out = []
-
         for i in range (len(nums)):
             nums[i]*=nums[i]
 
