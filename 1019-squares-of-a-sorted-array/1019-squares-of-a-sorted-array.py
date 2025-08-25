@@ -8,10 +8,8 @@ class Solution(object):
         out = []
 
         for i in range (len(nums)):
-            val = nums[i]*nums[i]
-            out.append(val)
-            val = 0
+            nums[i]*=nums[i]
 
-        out.sort()
+        nums.sort()
         
-        return out
+        return nums
