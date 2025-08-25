@@ -7,8 +7,6 @@ class Solution(object):
 
         out = []
 
-        temp = 0
-
         for i in range (len(nums)):
             val = nums[i]*nums[i]
             out.append(val)
