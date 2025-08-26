@@ -9,8 +9,8 @@ class Solution(object):
         n=len(nums)
         nums.sort()
         if n%2 == 1: #odd
-            med = nums[n//2]
+            med = nums[n/2]
         else: #even
-            med = (nums[n//2 - 1] + nums[n//2]) / 2.0
+            med = (nums[n/2 - 1] + nums[n/2]) / 2.0
 
         return med
