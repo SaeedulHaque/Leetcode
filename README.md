@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SaeedulHaque/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1019-squares-of-a-sorted-array](https://github.com/SaeedulHaque/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/SaeedulHaque/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SaeedulHaque/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
