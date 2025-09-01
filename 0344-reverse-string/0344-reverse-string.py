@@ -14,5 +14,5 @@ class Solution(object):
             # s[l] = s[r]
             # s[r] = temp
             l+= 1
-            r+= -1
+            r-= 1
 
