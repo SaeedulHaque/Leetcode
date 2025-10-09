@@ -10,10 +10,10 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        if not root:
+        if not root: #base case
             return 0
-        left = self.maxDepth(root.left)
-        right = self.maxDepth(root.right)
+        left = self.maxDepth(root.left) #search all left nodes for height
+        right = self.maxDepth(root.right) #search all right nodes for height
         return max(left,right)+1
 
 
